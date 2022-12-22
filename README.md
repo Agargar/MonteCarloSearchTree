@@ -1,3 +1,5 @@
+Fait par: **Anouar GARGAR**
+
 # Introduction : 
 Implémentation d'un planeur pour résoudre des problèmes PDDL en utilisant l'algorithme de Monte Carlo
 
