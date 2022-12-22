@@ -2,8 +2,11 @@
 Implémentation d'un planeur pour résoudre des problèmes PDDL en utilisant l'algorithme de Monte Carlo
 
 <br>
+
 # Résultats : 
+
 ### Algoithme de Monte Carlo 
+
 **Benchmark :  Gripper** 
 - time spent:      0,03 seconds parsing ,
                   0,04 seconds encoding ,
@@ -11,6 +14,7 @@ Implémentation d'un planeur pour résoudre des problèmes PDDL en utilisant l'a
                   0,08 seconds total time
 - Nombre d'actions : 10 actions
 <br>
+
 **Benchmark :  Depots** 
 
 - time spent:       0,03 seconds parsing ,
@@ -19,6 +23,7 @@ Implémentation d'un planeur pour résoudre des problèmes PDDL en utilisant l'a
                   0,13 seconds total time
 - Nombre d'actions : 9 actions
 <br>
+
 **Benchmark :  Logistics** 
 
 - time spent:       0,04 seconds parsing ,
@@ -29,6 +34,7 @@ Implémentation d'un planeur pour résoudre des problèmes PDDL en utilisant l'a
 <br>
 
 **Benchmark :  Blocks** 
+
  - time spent:      0,03 seconds parsing ,
                   0,05 seconds encoding ,
                   0,01 seconds searching ,
@@ -37,9 +43,11 @@ Implémentation d'un planeur pour résoudre des problèmes PDDL en utilisant l'a
   - Nombre d'actions : 5 actions     
   
   <br>
-  ### HSP : 
+  
+  ###HSP : 
   
   **Benchmark :  Gripper** 
+  
 - time spent:     0,03 seconds parsing 
                   0,05 seconds encoding 
                   0,02 seconds searching
@@ -47,6 +55,7 @@ Implémentation d'un planeur pour résoudre des problèmes PDDL en utilisant l'a
 
 - Nombre d'actions : 10 actions
 <br>
+
 **Benchmark :  Depots** 
 
 - time spent:     0,03 seconds parsing ,
@@ -55,6 +64,7 @@ Implémentation d'un planeur pour résoudre des problèmes PDDL en utilisant l'a
                   0,13 seconds total time
 - Nombre d'actions : 10 actions
 <br>
+
 **Benchmark :  Logistics** 
 
 - time spent:     0,04 seconds parsing 
@@ -65,6 +75,7 @@ Implémentation d'un planeur pour résoudre des problèmes PDDL en utilisant l'a
 <br>
 
 **Benchmark :  Blocks** 
+
  - time spent:      0,03 seconds parsing ,
                   0,05 seconds encoding ,
                   0,01 seconds searching ,
